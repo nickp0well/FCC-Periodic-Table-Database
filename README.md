@@ -1,1 +1,2 @@
 # FCC-Periodic-Table-Database
+This repository explores the programming languages SQL, Bash and uses Git for version control as a part of freeCodeCamp's Relational Database Certification. The periodic_table.sql file contains the periodic_table database along with some relevant tables. The element.sh file takes an argument from the command line, the atomic number, name, or symbol of an element and it will output some information about it.
